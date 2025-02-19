@@ -1,4 +1,4 @@
-🖥️ Full Forms of Computer
+# 🖥️ Full Forms of Computer
 Computers are an essential part of modern technology, and many technical terms are used in computing. Below is a list of important computer-related abbreviations and their full forms.
 
 📚 Common Full Forms of Computer
